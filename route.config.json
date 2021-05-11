@@ -1,0 +1,5 @@
+{
+    "API": "/api",
+    "EMPLOYEES": "/employees",
+    "USERS": "/users"
+}
